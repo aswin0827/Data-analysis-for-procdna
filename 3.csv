@@ -1,0 +1,43 @@
+﻿Spec Code,Description,Zederma target flag,Mercitelo target flag
+FM,Family Medicine ,1,1
+IM,Internal Medicine,1,1
+N,Neurology,1,1
+GP,General Practice,1,1
+RHU,Rheumatology,1,1
+PMD,Pain Medicine,1,0
+PMR,Pain Management (Physical Med & Rehab),1,0
+PM,Physical Medicine & Rehabilitation,1,0
+AN,Anesthesiology,1,1
+HOS,Hospitalist,1,1
+APM,Pain Medicine (Anesthesiology),1,0
+IMG,Geriatric Medicine (Internal Medicine),1,1
+EM,Emergency Medicine,1,1
+GER,Geriatrics/Gerontology,0,1
+FPG,Geriatric Medicine (Family Practice),0,1
+END,"Endocrinology, Diabetes, & Metabolism",0,1
+ADU,Adult Health,0,1
+HPM,Hospice & Palliative Medicine,1,0
+AC,Acute Care,1,1
+PMN,Pain Medicine (Neurology),1,0
+UCM,Urgent Care Medicine,1,1
+PMP,Pain Medicine (Phys Med & Rehab),1,0
+PMM,Sports Medicine,1,1
+P,Psychiatry,0,1
+NMN,Neuromuscular Medicine,1,0
+PRS,Sports Medicine (Physical Med & Rehab),1,0
+VN,Vascular Neurology,1,1
+FP,Family Practice (Residents Only),0,1
+PLM,Palliative Medicine,1,0
+EPL,Epilepsy,0,1
+PRCP,Primary Care Practice,0,1
+PPN,Pain Medicine (Psychiatry),1,0
+EMS,Emergency Medical Services,1,0
+AMF,Adolescent Medicine (Family Medicine),0,1
+PME,Pain Medicine (Residents Only),1,0
+OCT,Occupational Therapy,0,1
+CHP,Child & Adolescent Psychiatry,0,1
+HPF,Hospice & Palliative Medicine (FM),1,0
+NUP,Neuropsychiatry,1,1
+IPM,Internal Medicine-Preventive Medicine,0,1
+NMP,Neuromuscular Medicine (Physical Med),1,1
+FH,Family Health (APNs),1,1
